@@ -1,0 +1,15 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "A simple web application with a basic form for visitors to fill out.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'Build step not defined'"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
